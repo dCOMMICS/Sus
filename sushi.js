@@ -9,4 +9,7 @@ let DOB = Year - age;
 console.log(DOB);
 if (DOB)  >= 1833 
 
+
+//this shoyld should print jambo//
 console.log("Jambo");
+
