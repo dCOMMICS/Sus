@@ -12,4 +12,3 @@ print("MaNN")
 
 NameError
 
-h
