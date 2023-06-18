@@ -12,5 +12,5 @@ export function setupCounter(element) {
 
 
 
-
+let
 
