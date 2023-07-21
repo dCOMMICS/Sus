@@ -45,3 +45,5 @@ var
 
 
 // Sushi Page Development Continuationation //
+
+console.log("Welcome to our Shop")
