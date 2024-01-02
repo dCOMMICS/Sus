@@ -29,7 +29,7 @@ alert("Jambo")
 
 
 
-//this shoyld should print jambo//
+//this line should print jambo//
 console.log("Jambo");
 
 
