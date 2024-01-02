@@ -5,6 +5,7 @@ let age = 12;
 let Year = 1813;
 
 
+
 let DOB = Year - age;
 
 console.log(DOB);
@@ -28,7 +29,7 @@ alert("Jambo")
 
 
 
-//this shoyld should print jambo//
+//this line should print jambo//
 console.log("Jambo");
 
 
